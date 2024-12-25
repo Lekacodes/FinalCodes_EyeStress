@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "624459069061",
+    "project_id": "agriapp-59c85",
+    "storage_bucket": "agriapp-59c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624459069061:android:2623bc1bebba2cb258dbec",
+        "android_client_info": {
+          "package_name": "com.example.leka_eye_stress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624459069061-sdkplb0jrlgjpb10uguko2ujptg0sa5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5hJvRPKlvzFyxVKteg_8MRU-bPHFM-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624459069061-sdkplb0jrlgjpb10uguko2ujptg0sa5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624459069061:android:22ee2c9081e4496458dbec",
+        "android_client_info": {
+          "package_name": "dk.cachet.app_usage_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624459069061-sdkplb0jrlgjpb10uguko2ujptg0sa5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5hJvRPKlvzFyxVKteg_8MRU-bPHFM-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624459069061-sdkplb0jrlgjpb10uguko2ujptg0sa5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
